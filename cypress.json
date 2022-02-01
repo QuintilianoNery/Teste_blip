@@ -1,0 +1,11 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "baseUrl": "https://account.blip.ai",
+    "websecurity": false,
+    "experimentalStudio": true,
+    "video": false,
+    "viewportWidth": 1600,
+    "viewportHeight": 900,
+    "chromeWebSecurity": false
+  }
+  

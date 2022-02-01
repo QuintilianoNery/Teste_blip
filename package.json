@@ -1,0 +1,28 @@
+{
+  "name": "teste_blip",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Teste blip Cypress</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "npx cypress open ",
+    "cy:run": "npx cypress run --record --key eb341f2e-ee7f-4d28-89dd-f69a4776fd5a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuintilianoNery/Teste_blip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuintilianoNery/Teste_blip/issues"
+  },
+  "homepage": "https://github.com/QuintilianoNery/Teste_blip#readme",
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  },
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  }
+}
